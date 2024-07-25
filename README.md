@@ -8,4 +8,4 @@ I was asked to create a back end for an e-commerce site.
 ![ecommerce2](https://github.com/user-attachments/assets/3471c9b3-d01f-4c35-b504-3855702eb8ac)
 
 # URL
-(https://cbogart91.github.io/ecommerce/)
+https://cbogart91.github.io/ecommerce/
